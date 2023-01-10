@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error_loading_tasks">Error while loading tasks</string>
+    <string name="error_getting_task">Error while getting task</string>
+    <string name="error_inserting_task">Error inserting task</string>
+    <string name="error_updating_task">Error updating task</string>
+    <string name="error_deleting_task">Error while deleting task</string>
+    <string name="error_changing_task_checked">Error while setting task checked</string>
+
+</resources>

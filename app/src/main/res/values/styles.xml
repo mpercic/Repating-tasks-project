@@ -1,0 +1,20 @@
+<resources>
+
+    <style name="Widget.Theme.RepeatingTasks.MyView" parent="">
+        <item name="android:background">@color/gray_400</item>
+    </style>
+
+    <style name="repeatWeeklyButtonStyle" parent="Widget.MaterialComponents.Button.OutlinedButton">
+        <item name="cornerRadius">18dp</item>
+    </style>
+
+    <style name="Widget.RepeatingTasks.AppWidget.Container" parent="android:Widget">
+        <item name="android:id">@android:id/background</item>
+        <item name="android:background">?android:attr/colorBackground</item>
+    </style>
+
+    <style name="Widget.RepeatingTasks.AppWidget.InnerView" parent="android:Widget">
+        <item name="android:background">?android:attr/colorBackground</item>
+        <item name="android:textColor">?android:attr/textColorPrimary</item>
+    </style>
+</resources>

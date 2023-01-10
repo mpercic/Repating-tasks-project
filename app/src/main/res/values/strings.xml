@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Repeating Tasks</string>
+
+    <string name="tasks_for_today_title">Tasks for today</string>
+    <string name="task_text_hint">Task text</string>
+
+    <string name="task_type_once">Once</string>
+    <string name="task_type_daily">Daily</string>
+    <string name="task_type_weekly">Weekly</string>
+    <string name="task_type_monthly">Monthly</string>
+    <string name="daily_repeat_text">This task will repeat every day</string>
+    <string name="monday_button">mon</string>
+    <string name="tuesday_button">tue</string>
+    <string name="wednesday_button">wen</string>
+    <string name="thursday_button">thu</string>
+    <string name="friday_button">fri</string>
+    <string name="saturday_button">sat</string>
+    <string name="sun_button">sun</string>
+
+    <string name="task_saved">Task saved</string>
+
+    <string name="delete_task_question">Are you sure you want to delete this task?</string>
+    <string name="yes_text">Yes</string>
+    <string name="no_text">No</string>
+    <string name="close_text">Close</string>
+    <string name="share_text">Share</string>
+
+
+    <string name="back_button">Back</string>
+    <string name="create_button">Create</string>
+    <string name="save_button">Save</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+</resources>
