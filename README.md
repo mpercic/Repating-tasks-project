@@ -1,2 +1,2 @@
 # Repeating-tasks-project
-Android app that lest users view and create tasks that repeat on selected days
+Android app that lets users view and create tasks that repeat on selected days
